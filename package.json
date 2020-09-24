@@ -23,8 +23,7 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "rimraf": "^3.0.2",
-    "twemoji": "^13.0.1",
-    
+    "twemoji": "^13.0.1"  
   },
   "scripts": {
     "start": "node server.js",
