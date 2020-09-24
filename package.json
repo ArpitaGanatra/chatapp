@@ -3,7 +3,8 @@
   "version": "1.0.5",
   "engines": {
     "node": "12.x",
-    "npm": "6.x"
+    "npm": "6.x",
+    "heroku": "^7.43.2"
   },
   "private": true,
   "dependencies": {
